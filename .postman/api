@@ -9,5 +9,7 @@ rootDirectory = postman/collections
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"apis__apps_openapi.json","metaData":{}}
 
 [relations.apiDefinition.metaData]
+type = openapi:3
