@@ -1,4 +1,4 @@
-id = a26b4656-8e78-4963-9788-9ea5e103c1ce
+id = 712d899d-c0b7-43c7-b696-a8813362e4cd
 
 [relations]
 
@@ -14,57 +14,8 @@ files[] = {"id":"23366049-254bac74-61ba-4bef-afb6-d4c5037053e8","path":"New Coll
 [relations.collections.metaData]
 
 [relations.apiDefinition]
-rootDirectory = api
-files[] = {"path":"openapi-spec/swagger.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/.well-known__openid-configuration_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/api__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/api_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__admissionregistration.k8s.io__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__admissionregistration.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__apiextensions.k8s.io__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__apiextensions.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__apps__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__apps_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__authentication.k8s.io__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__authentication.k8s.io__v1alpha1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__authentication.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__authorization.k8s.io__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__authorization.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__autoscaling__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__autoscaling__v2_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__autoscaling_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__batch__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__batch_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__certificates.k8s.io__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__certificates.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__coordination.k8s.io__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__coordination.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__discovery.k8s.io__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__discovery.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__events.k8s.io__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__events.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__flowcontrol.apiserver.k8s.io__v1beta2_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__flowcontrol.apiserver.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__internal.apiserver.k8s.io__v1alpha1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__internal.apiserver.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__networking.k8s.io__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__networking.k8s.io__v1alpha1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__networking.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__node.k8s.io__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__node.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__policy__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__policy_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__rbac.authorization.k8s.io__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__rbac.authorization.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__scheduling.k8s.io__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__scheduling.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__storage.k8s.io__v1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__storage.k8s.io__v1beta1_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis__storage.k8s.io_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/apis_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/logs_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/openid__v1__jwks_openapi.json","metaData":{}}
-files[] = {"path":"openapi-spec/v3/version_openapi.json","metaData":{}}
+rootDirectory = postman/schemas
+files[] = {"path":"apis__apps_openapi.json","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
