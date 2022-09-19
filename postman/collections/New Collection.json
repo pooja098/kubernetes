@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "cacbbcdf-307c-4be8-981b-c9371e078b41",
+		"name": "C1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "122111-cacbbcdf-307c-4be8-981b-c9371e078b41"
+	},
+	"item": [
+		{
+			"name": "R1",
+			"id": "34f884ca-140c-486d-a0e7-ac8adcd47727",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
